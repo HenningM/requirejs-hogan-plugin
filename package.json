@@ -1,0 +1,19 @@
+{
+    "name": "hgn",
+    "version": "0.2.0",
+    "description": "Load mustache / hogan.js templates dynamically during development and compile them during build to achieve greater performance.",
+    "main": "hgn.js",
+    "dependencies": {
+        "hogan": "2.0.0",
+        "text": "2.0.2"
+    },
+    "categories": [
+        "Loader plugins"
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/HenningM/requirejs-hogan-plugin.git"
+        }
+    ]
+}
